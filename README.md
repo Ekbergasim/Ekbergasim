@@ -1,4 +1,4 @@
-[![MasterHead](https://images2.alphacoders.com/985/thumb-1920-985381.jpg)
+![MasterHead](https://images2.alphacoders.com/985/thumb-1920-985381.jpg)
 <h1 align="center">Hi 👋, I'm EKBER QASIMOV</h1>
 <h3 align="center">A passionate 1C developer from Azerbaijan</h3>
 
